@@ -1,0 +1,1410 @@
+[
+  {
+    "track": "Scared Now",
+    "artist": "The Game"
+  },
+  {
+    "track": "Motivation",
+    "artist": "T.I."
+  },
+  {
+    "track": "Blunt Blowin",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Do Ya Badd",
+    "artist": "Yung Joc"
+  },
+  {
+    "track": "By The Way",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "That's How Ya Feel",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "I Got Them",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Thuggin'",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Straight Up",
+    "artist": "Trick Daddy"
+  },
+  {
+    "track": "Kill Or Be Killed",
+    "artist": "B.G."
+  },
+  {
+    "track": "Real N****",
+    "artist": "B.G."
+  },
+  {
+    "track": "Top Back",
+    "artist": "T.I."
+  },
+  {
+    "track": "Stay Strapped",
+    "artist": "B.G. & Dj Drama"
+  },
+  {
+    "track": "Been A Boss",
+    "artist": "Lil Scrappy"
+  },
+  {
+    "track": "Air Forces",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Doe Doe",
+    "artist": "Webbie"
+  },
+  {
+    "track": "The Greatest",
+    "artist": "T.I."
+  },
+  {
+    "track": "3 Peat",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "My Struggle",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "N.O. In Me",
+    "artist": "C-Murder"
+  },
+  {
+    "track": "Sucka For Nuthin",
+    "artist": "B.G. & Dj Drama"
+  },
+  {
+    "track": "Hold Up",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "First Night",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Too Hot",
+    "artist": "Hot Boys"
+  },
+  {
+    "track": "Down Here",
+    "artist": "Sean Paul, Max Minelli, Mookie, S.C.C., T-Bo, Lil' Boogie, Magic & Soulja Slim"
+  },
+  {
+    "track": "400 Degreez",
+    "artist": "Juvenile"
+  },
+  {
+    "track": "Purple",
+    "artist": "Project Pat"
+  },
+  {
+    "track": "Y'all Heard Of Me (Feat. BG)",
+    "artist": "C-Murder"
+  },
+  {
+    "track": "Thug Me Like That",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Check",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Ain't No B****",
+    "artist": "B.G."
+  },
+  {
+    "track": "There He Go",
+    "artist": "Mystikal"
+  },
+  {
+    "track": "Thirteen Reasons",
+    "artist": "Brownside"
+  },
+  {
+    "track": "Reflection",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "Stash Spot",
+    "artist": "Da Mafia 6ix"
+  },
+  {
+    "track": "Mad Stalkers",
+    "artist": "21 Savage, Offset & Metro Boomin"
+  },
+  {
+    "track": "Insecure",
+    "artist": "Moneybagg Yo"
+  },
+  {
+    "track": "Check",
+    "artist": "Young Thug"
+  },
+  {
+    "track": "Digits",
+    "artist": "Young Thug"
+  },
+  {
+    "track": "Gravity",
+    "artist": "Youngboy Never Broke Again"
+  },
+  {
+    "track": "Power",
+    "artist": "Young Thug"
+  },
+  {
+    "track": "Ride On Em",
+    "artist": "Youngboy Never Broke Again"
+  },
+  {
+    "track": "No Promises",
+    "artist": "A Boogie Wit Da Hoodie"
+  },
+  {
+    "track": "Law (Feat. E-40)",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Bodak Yellow",
+    "artist": "Cardi B"
+  },
+  {
+    "track": "X (Feat. Future)",
+    "artist": "21 Savage & Metro Boomin"
+  },
+  {
+    "track": "Brown Paper Bag",
+    "artist": "Migos"
+  },
+  {
+    "track": "Hustle For Mine (Feat. YFN Lucci)",
+    "artist": "Blac Youngsta"
+  },
+  {
+    "track": "Check, Run It",
+    "artist": "T.I."
+  },
+  {
+    "track": "Troublesome 96'",
+    "artist": "2Pac (Tupac)"
+  },
+  {
+    "track": "No Love",
+    "artist": "Moneybagg Yo"
+  },
+  {
+    "track": "Facts",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "Where's Da Bud",
+    "artist": "Three 6 Mafia"
+  },
+  {
+    "track": "Texas Kingpins (Feat. Slim Thug) (Explicit)",
+    "artist": "Immortal Soldierz"
+  },
+  {
+    "track": "Neighborhood Drug Dealer",
+    "artist": "Rick Ross"
+  },
+  {
+    "track": "Ice Cream",
+    "artist": "Waka Flocka Flame"
+  },
+  {
+    "track": "Rent Money",
+    "artist": "Future"
+  },
+  {
+    "track": "Brown Bag",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Traphouse 3",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Hustlin",
+    "artist": "Wiz Khalifa"
+  },
+  {
+    "track": "15th And The 1st",
+    "artist": "Gucci Mane & Waka Flocka Flame"
+  },
+  {
+    "track": "Bustin' At 'em",
+    "artist": "Waka Flocka Flame"
+  },
+  {
+    "track": "Better Not Fight",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Like That",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Love Me",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Mask Off (Feat. Kendrick Lamar) (Remix)",
+    "artist": "Future"
+  },
+  {
+    "track": "Disrespectful",
+    "artist": "21 Savage, Offset & Metro Boomin"
+  },
+  {
+    "track": "Calling Me",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Turn Up",
+    "artist": "Gucci Mane & Chief Keef"
+  },
+  {
+    "track": "Pass Around",
+    "artist": "Gucci Mane & Young Scooter"
+  },
+  {
+    "track": "Slippery (Feat. Gucci Mane)",
+    "artist": "Migos"
+  },
+  {
+    "track": "Vogues",
+    "artist": "South Park Mexican"
+  },
+  {
+    "track": "How U Ridin",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "Call  Of Duty",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "Mind Ya' Business",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Bank Account",
+    "artist": "21 Savage"
+  },
+  {
+    "track": "P**sy Print (Feat. Kanye West)",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Juice",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "rockstar (feat. 21 Savage)",
+    "artist": "Post Malone"
+  },
+  {
+    "track": "Birthday",
+    "artist": "Blac Youngsta"
+  },
+  {
+    "track": "I Get The Bag (feat. Migos)",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Here To Stay (Feat. King Lil G & Dmz) (Explicit)",
+    "artist": "Immortal Soldierz"
+  },
+  {
+    "track": "U Down To Ride",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Creepin'",
+    "artist": "Brownside"
+  },
+  {
+    "track": "Felix Brothers",
+    "artist": "Felix Brothers"
+  },
+  {
+    "track": "Preach",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "How It Feel",
+    "artist": "Money Man"
+  },
+  {
+    "track": "38 Baby",
+    "artist": "Youngboy Never Broke Again"
+  },
+  {
+    "track": "Sum More (feat. Lil Yachty)",
+    "artist": "Lil Baby"
+  },
+  {
+    "track": "Foreva (Feat. T.I.)",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Can't Do It",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "Right Now",
+    "artist": "Moneybagg Yo"
+  },
+  {
+    "track": "One Thing",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "My Dawg",
+    "artist": "Lil Baby"
+  },
+  {
+    "track": "Ain't Gon Do S**t (Feat. Tracy T)",
+    "artist": "Gunplay"
+  },
+  {
+    "track": "What They Want",
+    "artist": "ScHoolboy Q"
+  },
+  {
+    "track": "Tunnel Vision",
+    "artist": "Kodak Black"
+  },
+  {
+    "track": "Go Get It",
+    "artist": "T.I."
+  },
+  {
+    "track": "Documentary (Feat. Bigga Rankin)",
+    "artist": "YFN Lucci"
+  },
+  {
+    "track": "More",
+    "artist": "Moneybagg Yo"
+  },
+  {
+    "track": "La Ocasión (Feat. Arcangel, Ozuna & Anuel Aa)",
+    "artist": "De La Ghetto, Mambo Kingz & DJ Luian"
+  },
+  {
+    "track": "Summer Sixteen",
+    "artist": "Drake"
+  },
+  {
+    "track": "Section",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "MFN Right (Feat. Lil Wayne) (Remix)",
+    "artist": "2 Chainz"
+  },
+  {
+    "track": "Da Streets",
+    "artist": "Rocko"
+  },
+  {
+    "track": "Wait For It (Feat. Blac Youngsta)",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Lay Me Down",
+    "artist": "Trill Fam"
+  },
+  {
+    "track": "Me Acostumbre (Feat. Bad Bunny)",
+    "artist": "Arcangel"
+  },
+  {
+    "track": "Ninguno Se Monta (Feat. Anuel Aa, Tempo, Juanka, Lito Kirino & Bryant Myers)",
+    "artist": "Darell"
+  },
+  {
+    "track": "Moving Kilos (Feat. French Montana)",
+    "artist": "Nengo Flow"
+  },
+  {
+    "track": "No Tengo Amigos Nuevos (Feat. Egwa, Darell & Ñengo Flow)",
+    "artist": "Tito El Bambino"
+  },
+  {
+    "track": "Trap Mix",
+    "artist": "Tempo"
+  },
+  {
+    "track": "Both Eyes Closed (Feat. 2 Chainz And Young Dolph)",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "F**k Up Some Commas",
+    "artist": "Future"
+  },
+  {
+    "track": "In My Hood",
+    "artist": "South Park Mexican"
+  },
+  {
+    "track": "Off The Corner",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "Smoke Dat Weed",
+    "artist": "Juicy J"
+  },
+  {
+    "track": "Up There",
+    "artist": "Project Pat"
+  },
+  {
+    "track": "Now I'm High, Pt. 1",
+    "artist": "DJ Paul"
+  },
+  {
+    "track": "Nuthin On Ya",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Trilla Than A B**ch",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Trap Or Die",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "In A Minute (Feat. Plies)",
+    "artist": "YFN Lucci"
+  },
+  {
+    "track": "That's What They Like",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Not The Only One",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "Four",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Way Too Gone",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Watch My Shoes",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Posed To Be In Love",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "I Am Back",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "I'm Da Man",
+    "artist": "Plies"
+  },
+  {
+    "track": "Bank Roll",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Stand Up",
+    "artist": "T.I."
+  },
+  {
+    "track": "P**sy, Money, Weed",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "All My Jewellery",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "How Ya Do Dat",
+    "artist": "Master P"
+  },
+  {
+    "track": "Down 4 My N's",
+    "artist": "Snoop Dogg, C-Murder & Magic"
+  },
+  {
+    "track": "Murkin Season",
+    "artist": "Plies"
+  },
+  {
+    "track": "Get 'Em",
+    "artist": "DJ Drama & Lil' Wayne"
+  },
+  {
+    "track": "Down For My N's",
+    "artist": "C-Murder"
+  },
+  {
+    "track": "A Miracle",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "Don't Get Caught",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Hatin'",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Goons Lurkin",
+    "artist": "Plies"
+  },
+  {
+    "track": "Sell My Dope",
+    "artist": "Yo Gotti & DJ RPM"
+  },
+  {
+    "track": "Monster",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "London Town (Feat. A$AP Rocky, A$AP Ant & Playboi Carti)",
+    "artist": "A$AP Mob"
+  },
+  {
+    "track": "M.A.A.D City",
+    "artist": "Kendrick Lamar"
+  },
+  {
+    "track": "FuckWithMeYouKnowIGotIt",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "I Got The Keys (Feat. JAY Z & Future)",
+    "artist": "DJ Khaled"
+  },
+  {
+    "track": "Errrday",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "No Role Modelz",
+    "artist": "J. Cole"
+  },
+  {
+    "track": "I'll Still Kill",
+    "artist": "50 Cent"
+  },
+  {
+    "track": "Vacation",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "I Don't Like (Remix)",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Nobody",
+    "artist": "Rick Ross"
+  },
+  {
+    "track": "Breathe",
+    "artist": "Fabolous"
+  },
+  {
+    "track": "Inkredible Remix",
+    "artist": "Jadakiss"
+  },
+  {
+    "track": "Squares Out Your Circle",
+    "artist": "Rocko"
+  },
+  {
+    "track": "Levels",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "Seen It All (Feat. JAY Z)",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Ambition",
+    "artist": "Wale"
+  },
+  {
+    "track": "Stay Schemin (Feat. Drake & French Montana)",
+    "artist": "Rick Ross"
+  },
+  {
+    "track": "Canal St. (Feat. Bones)",
+    "artist": "A$AP Rocky"
+  },
+  {
+    "track": "Fell Out",
+    "artist": "Gucci Mane, Yung Thug & Waka"
+  },
+  {
+    "track": "Smoking On Purple",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "ASAP",
+    "artist": "T.I."
+  },
+  {
+    "track": "R.I.C.O. (Feat. Drake)",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "Ready Or Not",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "Upper Echelon",
+    "artist": "Travis Scott"
+  },
+  {
+    "track": "Black On Black (Feat. Young Jeezy & Kevin Gates)",
+    "artist": "The Game"
+  },
+  {
+    "track": "1/4 Block",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Triple Beam Dreams",
+    "artist": "Rick Ross"
+  },
+  {
+    "track": "Power Circle",
+    "artist": "Gunplay, Stalley, Wale & Meek Mill"
+  },
+  {
+    "track": "BM J.R.",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Errrbody",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Grey Goose",
+    "artist": "Yo Gotti & DJ RPM"
+  },
+  {
+    "track": "What Is It",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Get Ya Mind Right",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Betrayed",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "Shawty",
+    "artist": "Yo Gotti & DJ RPM"
+  },
+  {
+    "track": "They Like (Feat. YFN Lucci)",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "This One's For You",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Hate Bein' Sober (Feat. 50 Cent And Wiz Khalifa)",
+    "artist": "Chief Keef"
+  },
+  {
+    "track": "Red, White, Blue",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Lil Bit",
+    "artist": "K CAMP"
+  },
+  {
+    "track": "Like A Man (Feat. Rich Homie Quan)",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "Time For That",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "Who Do You Love?",
+    "artist": "YG"
+  },
+  {
+    "track": "Show Out",
+    "artist": "Juicy J"
+  },
+  {
+    "track": "Adios",
+    "artist": "Lil Boosie, Big Head, Webbie & Foxx"
+  },
+  {
+    "track": "Good Stuff",
+    "artist": "Three 6 Mafia"
+  },
+  {
+    "track": "Down In The DM",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Check",
+    "artist": "Migos"
+  },
+  {
+    "track": "Streetz Iz Mine",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "I Got That Sack",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Breathe/Dreaming (Feat. Ampichino)",
+    "artist": "Berner"
+  },
+  {
+    "track": "Wreckin Yard (Feat. Casiron) (Explicit)",
+    "artist": "Immortal Soldierz"
+  },
+  {
+    "track": "Vibes",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "M'$",
+    "artist": "A$AP Rocky"
+  },
+  {
+    "track": "Royalty",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Only 1",
+    "artist": "Gunplay"
+  },
+  {
+    "track": "Remix Rerock",
+    "artist": "Gucci Mane & Young Scooter"
+  },
+  {
+    "track": "Rest In Peace",
+    "artist": "Brownside"
+  },
+  {
+    "track": "Slayed (Feat. Boosie Badazz)",
+    "artist": "Kodak Black"
+  },
+  {
+    "track": "Banger",
+    "artist": "Gucci Mane & Chief Keef"
+  },
+  {
+    "track": "Dirty (Feat. Drummer Boy)",
+    "artist": "King Lil G"
+  },
+  {
+    "track": "Have Mercy",
+    "artist": "Ace Hood"
+  },
+  {
+    "track": "Slime S**t (Feat. Yak Gotti)",
+    "artist": "Young Thug"
+  },
+  {
+    "track": "China Town",
+    "artist": "Migos"
+  },
+  {
+    "track": "Nothin On Ya",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "New Atlanta (Feat. Rich Homie Quan, Young Thug, Jermaine Dupri )",
+    "artist": "Migos"
+  },
+  {
+    "track": "Made Me (Feat. K Camp)",
+    "artist": "Snootie Wild"
+  },
+  {
+    "track": "Mind Right",
+    "artist": "TK N Cash"
+  },
+  {
+    "track": "Hit The Quan",
+    "artist": "iLoveMemphis"
+  },
+  {
+    "track": "Too Much",
+    "artist": "QUE (Hip Hop)"
+  },
+  {
+    "track": "Where Were You",
+    "artist": "Migos"
+  },
+  {
+    "track": "Imma Ride",
+    "artist": "Rich Homie Quan & Young Thug"
+  },
+  {
+    "track": "Nasty Freestyle",
+    "artist": "T-WAYNE"
+  },
+  {
+    "track": "My Way (Feat. Monty)",
+    "artist": "Fetty Wap"
+  },
+  {
+    "track": "Low Life (Feat. The Weeknd)",
+    "artist": "Future"
+  },
+  {
+    "track": "Wishy Washy",
+    "artist": "Migos"
+  },
+  {
+    "track": "Sosa",
+    "artist": "Chief Keef"
+  },
+  {
+    "track": "Hot S**t",
+    "artist": "Chief Keef"
+  },
+  {
+    "track": "Top In The Trash",
+    "artist": "Gucci Mane & Chief Keef"
+  },
+  {
+    "track": "My Lil Son (Feat. Whoop & NBA YoungBoy)",
+    "artist": "Boosie Badazz (Holiday)"
+  },
+  {
+    "track": "Til Death",
+    "artist": "Lord Infamous"
+  },
+  {
+    "track": "Crazy Brazy (Feat. A$AP Rocky, A$AP Twelvyy & Key!)",
+    "artist": "A$AP Mob"
+  },
+  {
+    "track": "LUST.",
+    "artist": "Kendrick Lamar"
+  },
+  {
+    "track": "Marijuana (Feat. B-Legit & Demrick)",
+    "artist": "B-Real & Berner"
+  },
+  {
+    "track": "Head Shots",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "OOOUUU",
+    "artist": "Young M.A"
+  },
+  {
+    "track": "Electric Body (Feat. ScHoolboy Q)",
+    "artist": "A$AP Rocky"
+  },
+  {
+    "track": "THat Part (Feat. Kanye West)",
+    "artist": "ScHoolboy Q"
+  },
+  {
+    "track": "Chill Bill (Feat. J. Davi$ & Spooks)",
+    "artist": "Rob $tone"
+  },
+  {
+    "track": "Multiply (Feat. Juicy J)",
+    "artist": "A$AP Rocky"
+  },
+  {
+    "track": "Turn They Back (Feat. Lil Durk)",
+    "artist": "YFN Lucci"
+  },
+  {
+    "track": "First Day Out Tha Feds",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Kelly Price (Feat. Travis Scott)",
+    "artist": "Migos"
+  },
+  {
+    "track": "Unstoppable",
+    "artist": "YFN Lucci"
+  },
+  {
+    "track": "Yayo (Feat. Yo Gotti)",
+    "artist": "Snootie Wild"
+  },
+  {
+    "track": "Tony Montana",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "Say Round",
+    "artist": "Lil Boosie, Big Head, Webbie & Foxx"
+  },
+  {
+    "track": "So Hi",
+    "artist": "T-Rock"
+  },
+  {
+    "track": "The Top",
+    "artist": "Slim Thug"
+  },
+  {
+    "track": "I Don't Really Care",
+    "artist": "Waka Flocka Flame"
+  },
+  {
+    "track": "My Flag/Da Homies (Feat. Ty Dolla $ign, Jay 305, AD, Mitchy Slick, Joe Moses, RJ & Skeme)",
+    "artist": "The Game"
+  },
+  {
+    "track": "She Get It",
+    "artist": "Gunplay"
+  },
+  {
+    "track": "F**k Are You Anyway (Feat. French Montana)",
+    "artist": "Chinx"
+  },
+  {
+    "track": "Big Blue Hundreds",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "Semi On Em",
+    "artist": "Gucci Mane & Chief Keef"
+  },
+  {
+    "track": "Gunwalk",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "In My Hands (Feat. Migos)",
+    "artist": "Mike Will Made-It"
+  },
+  {
+    "track": "Da City",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "Dope House (Feat. Jadakiss)",
+    "artist": "Chinx"
+  },
+  {
+    "track": "Fight Night",
+    "artist": "Migos"
+  },
+  {
+    "track": "Kansas (Feat. Gucci Mane)",
+    "artist": "Jim Jones (Rap)"
+  },
+  {
+    "track": "Informant",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Ain't Nothin'",
+    "artist": "Chief Keef"
+  },
+  {
+    "track": "Start Pimpin",
+    "artist": "Gucci Mane & Chief Keef"
+  },
+  {
+    "track": "Pack Gone Missin",
+    "artist": "Migos"
+  },
+  {
+    "track": "Racks",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Ten Toes Down",
+    "artist": "Chief Keef"
+  },
+  {
+    "track": "Bank",
+    "artist": "Lord Infamous"
+  },
+  {
+    "track": "Key To The Streets (Remix) (Feat. 2 Chainz, Lil Wayne & Quavo)",
+    "artist": "YFN Lucci"
+  },
+  {
+    "track": "For A Living",
+    "artist": "Lil' Blood"
+  },
+  {
+    "track": "Radical",
+    "artist": "Future"
+  },
+  {
+    "track": "What's Poppin'?",
+    "artist": "Waka Flocka Flame"
+  },
+  {
+    "track": "Believe Me (Feat. Drake)",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Type Of Way",
+    "artist": "Rich Homie Quan"
+  },
+  {
+    "track": "My N**ga (Remix)",
+    "artist": "YG"
+  },
+  {
+    "track": "Like Whaaat",
+    "artist": "Problem"
+  },
+  {
+    "track": "I Heard",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "John Gotti",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "Facetime (Feat. Trey Songz)",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "How U Ridin'",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Cruisin (Feat. Yo Gotti)",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "I Don't Love Her",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "March Madness",
+    "artist": "Future"
+  },
+  {
+    "track": "Six 12's",
+    "artist": "Webbie"
+  },
+  {
+    "track": "No Juice",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "I Know",
+    "artist": "Webbie"
+  },
+  {
+    "track": "U Ain't Bout What U Be Talkin Bout",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "Give Me That",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Real N**ga",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "What I Learned From The Streets",
+    "artist": "Lil Boosie"
+  },
+  {
+    "track": "You Got Da Right",
+    "artist": "Trouble (ATL)"
+  },
+  {
+    "track": "Off The Chain",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "Sike",
+    "artist": "Lil Wyte"
+  },
+  {
+    "track": "Laf",
+    "artist": "Rittz"
+  },
+  {
+    "track": "MFN Right",
+    "artist": "2 Chainz"
+  },
+  {
+    "track": "Ooooh (Feat. Young Scooter)",
+    "artist": "Future"
+  },
+  {
+    "track": "Dem",
+    "artist": "DJ Esco"
+  },
+  {
+    "track": "Gang Gang (Feat. Blac Youngsta)",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "HUMBLE.",
+    "artist": "Kendrick Lamar"
+  },
+  {
+    "track": "Jersey",
+    "artist": "Future"
+  },
+  {
+    "track": "Loss 4 Wrdz (Feat. Rick Ross)",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Met Gala (Feat. Offset)",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "No Problem",
+    "artist": "Lil Scrappy & Trillville"
+  },
+  {
+    "track": "U Don't Know Me",
+    "artist": "T.I."
+  },
+  {
+    "track": "Never Scared",
+    "artist": "Bone Crusher"
+  },
+  {
+    "track": "No Flockin",
+    "artist": "Kodak Black"
+  },
+  {
+    "track": "Shake Sum",
+    "artist": "Blac Youngsta"
+  },
+  {
+    "track": "Wit This Money (Feat. YFN Lucci)",
+    "artist": "Moneybagg Yo"
+  },
+  {
+    "track": "U.O.E.N.O.",
+    "artist": "Rocko"
+  },
+  {
+    "track": "Hurt A N**ga Feelings",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Meech",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Castro (Feat. Kanye West, Big Sean, Quavo & 2 Chainz)",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Hustlin'",
+    "artist": "Rick Ross"
+  },
+  {
+    "track": "F**ked Up",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "Wassup With It",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "You A Trip",
+    "artist": "Webbie"
+  },
+  {
+    "track": "Good Drank (Feat. Gucci Mane & Quavo)",
+    "artist": "2 Chainz"
+  },
+  {
+    "track": "Been Thru It All",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Used To This (Feat. Drake)",
+    "artist": "Future"
+  },
+  {
+    "track": "Runnin Circles",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Both (Feat. Drake & Lil Wayne) (Remix)",
+    "artist": "Gucci Mane"
+  },
+  {
+    "track": "Grade A",
+    "artist": "Boosie Badazz"
+  },
+  {
+    "track": "Different Ways",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Feds Did A Sweep",
+    "artist": "Future"
+  },
+  {
+    "track": "Play Wit Yo' B**ch",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Grove St. Party (Feat. Kebo Gotti)",
+    "artist": "Waka Flocka Flame"
+  },
+  {
+    "track": "Where Is Da Bud (Part 2)",
+    "artist": "Three 6 Mafia"
+  },
+  {
+    "track": "Inside The Mattress",
+    "artist": "Future"
+  },
+  {
+    "track": "Doin 2 Much",
+    "artist": "Moneybagg Yo & Yo Gotti"
+  },
+  {
+    "track": "BPT",
+    "artist": "YG"
+  },
+  {
+    "track": "Weekend (Feat. Miguel)",
+    "artist": "Mac Miller"
+  },
+  {
+    "track": "Heartless (Feat. Rick Ross)",
+    "artist": "YFN Lucci"
+  },
+  {
+    "track": "Trap Boomin' (Feat. Gucci Mane & Rick Ross)",
+    "artist": "Mike Will Made-It"
+  },
+  {
+    "track": "Pulled Up (Feat. 2 Chainz)",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Back Da F**k Back",
+    "artist": "Project Pat"
+  },
+  {
+    "track": "Last Day",
+    "artist": "Brownside"
+  },
+  {
+    "track": "Show The World",
+    "artist": "Lil' Boosie & Webbie"
+  },
+  {
+    "track": "Do It Stick It",
+    "artist": "3 Deep"
+  },
+  {
+    "track": "Good Morning (Feat. Lil' Phat)",
+    "artist": "Boosie"
+  },
+  {
+    "track": "Handsome And Wealthy",
+    "artist": "Migos"
+  },
+  {
+    "track": "F-U",
+    "artist": "Yo Gotti"
+  },
+  {
+    "track": "Free Bricks",
+    "artist": "Gucci Mane & Young Scooter"
+  },
+  {
+    "track": "F**k It",
+    "artist": "Young Dolph"
+  },
+  {
+    "track": "Booty",
+    "artist": "Blac Youngsta"
+  },
+  {
+    "track": "A Tale Of 2 Citiez",
+    "artist": "J. Cole"
+  },
+  {
+    "track": "President Carter",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Jungle",
+    "artist": "A Boogie Wit Da Hoodie"
+  },
+  {
+    "track": "Through My Head",
+    "artist": "Berner"
+  },
+  {
+    "track": "Thug Life",
+    "artist": "Trill Fam"
+  },
+  {
+    "track": "Too Loyal",
+    "artist": "Gucci Mane & Waka Flocka Flame"
+  },
+  {
+    "track": "No Shake",
+    "artist": "Gunplay"
+  },
+  {
+    "track": "Dope House (Remix) (Feat. French Montana, Jadakiss)",
+    "artist": "Chinx"
+  },
+  {
+    "track": "No Heart",
+    "artist": "21 Savage & Metro Boomin"
+  },
+  {
+    "track": "9 Piece",
+    "artist": "Rick Ross"
+  },
+  {
+    "track": "PacMan",
+    "artist": "Gucci Mane & Waka Flocka Flame"
+  },
+  {
+    "track": "Trap N**ga",
+    "artist": "Young Dolph"
+  }
+]
